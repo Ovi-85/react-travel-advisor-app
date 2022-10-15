@@ -1,4 +1,7 @@
-{
+
+{ 
+  
+  "homepage": "https://Ovi-85.github.io/react-travel-advisor-app",
   "name": "react-travel-app",
   "version": "0.1.0",
   "private": true,
